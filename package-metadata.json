@@ -1,0 +1,1 @@
+{"platforms": ["*"], "version": "0.1.8", "sublime_text": "*", "dependencies": [], "url": "https://github.com/ivlevdenis/kivylng", "description": "Kivy language definition for Sublime Text"}
