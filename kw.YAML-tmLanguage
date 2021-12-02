@@ -1,8 +1,8 @@
 # [PackageDev] target_format: plist, ext: tmLanguage
 ---
 name: Kivy Web Syntax
-scopeName: source.kv
-fileTypes: [kv]
+scopeName: source.kw
+fileTypes: [kw]
 uuid: d7b6c18f-afd3-4030-8489-b5a3f3b6d4a4
 
 patterns:
